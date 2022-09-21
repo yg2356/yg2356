@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=Hello%20myrepo&fontSize=90)
-
+공부한 것들 대부분은 네이버 블로그에 올립니다.
+https://blog.naver.com/kmnfcg
 <!--
 **yg2356/yg2356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
